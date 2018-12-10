@@ -1,0 +1,17 @@
+body {
+    color: white;
+    font-family: "Roboto"; 
+    text-align: center;
+    background-image: url(https://i.ytimg.com/vi/8-oVlIqt0vQ/maxresdefault.jpg)
+}
+body h1 {
+    font-size: 75px;
+}
+
+body h2 {
+    font-size: 50px;
+    
+}
+body h3 {
+    font-size: 25px;
+}
